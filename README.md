@@ -73,7 +73,7 @@ dans une application Flutter en utilisant plusieurs méthodes :
 
 ##  Captures d’écran
 
-Des captures d’écran de sont disponibles dans le dépôt.
+Des captures d’écran  sont disponibles dans le dépôt.
 
 
 ---
